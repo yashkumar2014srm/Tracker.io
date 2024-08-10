@@ -1,4 +1,4 @@
 dash==2.6.0
-pip install dash-bootstrap-components
+dash-bootstrap-components
 pandas
 gunicorn
